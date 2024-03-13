@@ -11,13 +11,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #2d3331;
+    background-color: #353b48;
 }
 
 .container {
     width: 15rem;
     height: 15rem;
-    background-color: #303634;
+    background-color: #353b48;
     border-radius: 0.5rem;
-    box-shadow: 0 0 10px 1px rgba(36, 39, 36, 0.6);
+    box-shadow: 0 0 10px 1px rgba(39, 44, 53, 0.5);
 }
