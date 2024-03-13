@@ -19,5 +19,10 @@ body {
     height: 15rem;
     background-color: #353b48;
     border-radius: 0.5rem;
-    box-shadow: 0 0 10px 1px rgba(39, 44, 53, 0.5);
+    box-shadow: 0 0 10px 1px rgba(37, 41, 49, 0.5);
+}
+.title {
+    color: #9c88ff;
+    text-align: center;
+    font-size: 1.6em;
 }
