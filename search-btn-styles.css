@@ -52,8 +52,9 @@ body {
 .search-btn span {
     padding: 0 0 0 23px;
     color: #dcdde1;
-    display: none;
+    opacity: 0;
     font-weight: 600;
+    transition: all 0.3s ease;
 }
 
 .search-btn:hover {
@@ -64,5 +65,5 @@ body {
     background-color: #9481f1;
 }
 .container > .search-btn:hover span {
-    display: inline;
+    opacity: 1;
 }
